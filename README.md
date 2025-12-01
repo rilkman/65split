@@ -1,4 +1,4 @@
-![65 split](https://github.com/rilkman/65split/blob/main/images/case.png)
+![65 split](https://github.com/rilkman/65split/blob/main/images/case1.png)
 
 # 65 Split
 This is a 65% split bluetooth wireless keyboard I designed and created for a friend. This was also my first time creating a PCB and decided this would be a relatively easy project after making several handwired keyboards.  
