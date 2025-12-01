@@ -1,10 +1,11 @@
-![65Split exploded view](https://github.com/rilkman/65split/blob/main/images/case-exploded-view.png)
+![65 split](https://github.com/rilkman/65split/blob/main/images/case.png)
 
 # 65 Split
 This is a 65% split bluetooth wireless keyboard I designed and created for a friend. This was also my first time creating a PCB and decided this would be a relatively easy project after making several handwired keyboards.  
 
 The keyboard uses open source ZMK firmware.
 
+![65Split exploded view](https://github.com/rilkman/65split/blob/main/images/case-exploded-view.png)
 ![Case bottom](https://github.com/rilkman/65split/blob/main/images/case-bottom.png)
 ![PCB top](https://github.com/rilkman/65split/blob/main/images/pcb-top.png)
 ![PCB bottom](https://github.com/rilkman/65split/blob/main/images/pcb-bottom.png)
