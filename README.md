@@ -14,7 +14,7 @@ This layout was originally designed to be used on MacOS, however, the layout is 
 # Firmware/ZMK Config
 
 # Software Used
-3D Modelling - FreeCAD
-PCB Design - KiCad
-Keyboard layout - https://www.keyboard-layout-editor.com/
-Keyboard plate - https://www.keyboard-layout-editor.com/
+3D Modelling - FreeCAD  
+PCB Design - KiCad  
+Keyboard layout - https://www.keyboard-layout-editor.com/  
+Keyboard plate - http://builder.swillkb.com/  
