@@ -8,6 +8,8 @@ The keyboard uses open source ZMK firmware.
 ![Case bottom](https://github.com/rilkman/65split/blob/main/images/case-bottom.png)
 ![PCB top](https://github.com/rilkman/65split/blob/main/images/pcb-top.png)
 ![PCB bottom](https://github.com/rilkman/65split/blob/main/images/pcb-bottom.png)
+![Left schmatic](https://github.com/rilkman/65split/blob/main/images/left-schematic.png)
+![Right schmatic](https://github.com/rilkman/65split/blob/main/images/right-schematic.png)
 
 # Layout
 ![Keyboard Layout](https://github.com/rilkman/65split/blob/main/images/layout.png)
